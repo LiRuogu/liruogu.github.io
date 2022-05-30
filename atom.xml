@@ -6,7 +6,7 @@
   <link href="https://liruogu.github.io/atom.xml" rel="self"/>
   
   <link href="https://liruogu.github.io/"/>
-  <updated>2022-05-30T15:20:18.654Z</updated>
+  <updated>2022-05-30T15:51:10.800Z</updated>
   <id>https://liruogu.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>benediction</title>
+    <link href="https://liruogu.github.io/2022/05/30/benediction/"/>
+    <id>https://liruogu.github.io/2022/05/30/benediction/</id>
+    <published>2022-05-30T15:41:06.000Z</published>
+    <updated>2022-05-30T15:51:10.800Z</updated>
+    
+    <content type="html"><![CDATA[<p>数年前曾给只在网上认识的学生上了几周化学/物理课，当时自己身边能够提供的条件实在有限，讲的内容与深度不够。每每想起来，真是十分报以歉意。现在学的多了起来，对于其他人到也是更不敢教授（量子力学、群论、编程），怕是误人子弟。没有意外的情况下，今年她应当要参加高考了，在此希望她能够取得优异的成绩。</p><p>-2022/5/30</p><p>李若谷</p><p>于柳州</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;数年前曾给只在网上认识的学生上了几周化学/物理课，当时自己身边能够提供的条件实在有限，讲的内容与深度不够。每每想起来，真是十分报以歉意。现在学的多了起来，对于其他人到也是更不敢教授（量子力学、群论、编程），怕是误人子弟。没有意外的情况下，今年她应当要参加高考了，在此希望她能</summary>
+      
+    
+    
+    
+    
+    <category term="benediction" scheme="https://liruogu.github.io/tags/benediction/"/>
+    
+  </entry>
   
   <entry>
     <title>国立交通大学《计算化学理论方法简介》</title>
@@ -44,15 +66,20 @@
     <link href="https://liruogu.github.io/2022/03/21/%E9%BB%98%E5%93%80/"/>
     <id>https://liruogu.github.io/2022/03/21/%E9%BB%98%E5%93%80/</id>
     <published>2022-03-21T14:13:33.000Z</published>
-    <updated>2022-03-21T14:22:37.821Z</updated>
+    <updated>2022-05-30T15:38:53.965Z</updated>
     
-    <content type="html"><![CDATA[<p>今天，中国东方航空MU5753号航班在广西梧州境内坠毁，向所有遇难者致以沉痛的哀悼。</p>]]></content>
+    <content type="html"><![CDATA[<p>今天，中国东方航空MU5753号航班在广西梧州境内坠毁，向所有遇难者致以沉痛的哀悼。</p><hr><p>想起了一首诗</p><p>《江南逢李龟年》</p><p>岐王宅里寻常见，崔九堂前几度闻。</p><p>正是江南好风景，落花时节又逢君。</p><p>诗人杜甫作</p><p>再次向所有遇难者致以哀悼</p><p>-2022/5/30</p><p>李若谷</p><p>于柳州</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;今天，中国东方航空MU5753号航班在广西梧州境内坠毁，向所有遇难者致以沉痛的哀悼。&lt;/p&gt;
-</summary>
+&lt;hr&gt;
+&lt;p&gt;想起了一首诗&lt;/p&gt;
+&lt;p&gt;《江南逢李龟年》&lt;/p&gt;
+&lt;p&gt;岐王宅里寻常见，崔九堂前几度闻。&lt;/p&gt;
+&lt;p&gt;正是江南好风景，落花时节又逢君。&lt;/p&gt;
+&lt;p&gt;诗人杜甫</summary>
       
     
     
@@ -67,9 +94,9 @@
     <link href="https://liruogu.github.io/2022/03/06/Orcawfn/"/>
     <id>https://liruogu.github.io/2022/03/06/Orcawfn/</id>
     <published>2022-03-06T04:51:46.000Z</published>
-    <updated>2022-03-06T05:12:18.829Z</updated>
+    <updated>2022-05-30T15:29:30.305Z</updated>
     
-    <content type="html"><![CDATA[<p>Orcawfn 的目标是开发一个专门用于Orca输出文件的波函数分析程序</p><p>Version 1.0.0 (dev)更新内容:支持幽灵原子(Ghost Atom)的坐标计算，并支持文件的批量处理</p><p>Release date: 2022-02-19</p><p>希望这会成为一个伟大想法的开端</p>]]></content>
+    <content type="html"><![CDATA[<p>Orcawfn 的目标是开发一个专门用于Orca输出文件的波函数分析程序</p><p>Version 1.0.0 (dev)更新内容:支持幽灵原子(Ghost Atom)的坐标计算，并支持文件的批量处理</p><p>Release date: 2022-02-19</p><p>希望这会成为一个伟大想法的开端</p><hr><p>由于长久的搁置，在一定程度上，这个想法失败了。但是另一方面，我认为我编写的程序应当转向服务于现在自己的研究之中。</p><p>-2022/05/30</p><p>李若谷</p><p>于柳州</p><hr>]]></content>
     
     
       
@@ -132,14 +159,14 @@
     <link href="https://liruogu.github.io/2021/12/14/Origin2/"/>
     <id>https://liruogu.github.io/2021/12/14/Origin2/</id>
     <published>2021-12-14T14:59:08.000Z</published>
-    <updated>2021-12-19T15:32:21.463Z</updated>
+    <updated>2022-05-30T15:27:50.686Z</updated>
     
-    <content type="html"><![CDATA[<p>该过程需要用到教育邮箱，如果您没有此邮箱请向贵校管理员申请；该教程使用的是Windows系统的电脑</p><p>*教育邮箱主要是指edu.cn结尾的邮箱，如<a href="mailto:&#x58;&#88;&#88;&#64;&#x73;&#116;&#x75;&#x2e;&#106;&#105;&#x61;&#x6e;&#x67;&#x6e;&#97;&#110;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;">&#x58;&#88;&#88;&#64;&#x73;&#116;&#x75;&#x2e;&#106;&#105;&#x61;&#x6e;&#x67;&#x6e;&#97;&#110;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;</a></p><p>*亦有例外：<a href="mailto:&#x58;&#88;&#88;&#64;&#x6e;&#x63;&#101;&#x70;&#x75;&#x2e;&#99;&#110;">&#x58;&#88;&#88;&#64;&#x6e;&#x63;&#101;&#x70;&#x75;&#x2e;&#99;&#110;</a>(华北电力大学)；<a href="mailto:&#88;&#88;&#x58;&#x40;&#97;&#99;&#46;&#x63;&#110;">&#88;&#88;&#x58;&#x40;&#97;&#99;&#46;&#x63;&#110;</a>(中科院)等，大多数为edu.cn结尾</p><span id="more"></span><h1 id="一、申请"><a href="#一、申请" class="headerlink" title="一、申请"></a>一、申请</h1><p><a href="https://www.originlab.com/OriginProLearning.aspx">https://www.originlab.com/OriginProLearning.aspx</a></p><p>按照上述网页中所显示之要求填写</p><p>*整个过程尽量使用英文输入</p><p><img src="https://liruogu.github.io/originsq1.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>该过程需要用到教育邮箱，如果您没有此邮箱请向贵校管理员申请；该教程使用的是Windows系统的电脑</p><p>*教育邮箱主要是指edu.cn结尾的邮箱，如<a href="mailto:&#88;&#x58;&#88;&#64;&#x73;&#x74;&#x75;&#46;&#x6a;&#105;&#x61;&#x6e;&#x67;&#110;&#97;&#110;&#x2e;&#x65;&#x64;&#117;&#46;&#99;&#110;">&#88;&#x58;&#88;&#64;&#x73;&#x74;&#x75;&#46;&#x6a;&#105;&#x61;&#x6e;&#x67;&#110;&#97;&#110;&#x2e;&#x65;&#x64;&#117;&#46;&#99;&#110;</a></p><p>*亦有例外：<a href="mailto:&#x58;&#x58;&#x58;&#64;&#110;&#x63;&#x65;&#x70;&#117;&#46;&#x63;&#x6e;">&#x58;&#x58;&#x58;&#64;&#110;&#x63;&#x65;&#x70;&#117;&#46;&#x63;&#x6e;</a>(华北电力大学)；<a href="mailto:&#88;&#x58;&#88;&#64;&#97;&#x63;&#46;&#99;&#x6e;">&#88;&#x58;&#88;&#64;&#97;&#x63;&#46;&#99;&#x6e;</a>(中科院)等，大多数为edu.cn结尾</p><span id="more"></span><h1 id="一、申请"><a href="#一、申请" class="headerlink" title="一、申请"></a>一、申请</h1><p><a href="https://www.originlab.com/OriginProLearning.aspx">https://www.originlab.com/OriginProLearning.aspx</a></p><p>按照上述网页中所显示之要求填写</p><p>*整个过程尽量使用英文输入</p><p><img src="https://liruogu.github.io/originsq1.png"></p><hr><p>应该会很快有完整版本的内容</p><p>-2022/05/30</p><p>李若谷</p><p>于柳州</p><hr>]]></content>
     
     
     <summary type="html">&lt;p&gt;该过程需要用到教育邮箱，如果您没有此邮箱请向贵校管理员申请；该教程使用的是Windows系统的电脑&lt;/p&gt;
-&lt;p&gt;*教育邮箱主要是指edu.cn结尾的邮箱，如&lt;a href=&quot;mailto:&amp;#x58;&amp;#88;&amp;#88;&amp;#64;&amp;#x73;&amp;#116;&amp;#x75;&amp;#x2e;&amp;#106;&amp;#105;&amp;#x61;&amp;#x6e;&amp;#x67;&amp;#x6e;&amp;#97;&amp;#110;&amp;#x2e;&amp;#101;&amp;#100;&amp;#x75;&amp;#x2e;&amp;#x63;&amp;#x6e;&quot;&gt;&amp;#x58;&amp;#88;&amp;#88;&amp;#64;&amp;#x73;&amp;#116;&amp;#x75;&amp;#x2e;&amp;#106;&amp;#105;&amp;#x61;&amp;#x6e;&amp;#x67;&amp;#x6e;&amp;#97;&amp;#110;&amp;#x2e;&amp;#101;&amp;#100;&amp;#x75;&amp;#x2e;&amp;#x63;&amp;#x6e;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;*亦有例外：&lt;a href=&quot;mailto:&amp;#x58;&amp;#88;&amp;#88;&amp;#64;&amp;#x6e;&amp;#x63;&amp;#101;&amp;#x70;&amp;#x75;&amp;#x2e;&amp;#99;&amp;#110;&quot;&gt;&amp;#x58;&amp;#88;&amp;#88;&amp;#64;&amp;#x6e;&amp;#x63;&amp;#101;&amp;#x70;&amp;#x75;&amp;#x2e;&amp;#99;&amp;#110;&lt;/a&gt;(华北电力大学)；&lt;a href=&quot;mailto:&amp;#88;&amp;#88;&amp;#x58;&amp;#x40;&amp;#97;&amp;#99;&amp;#46;&amp;#x63;&amp;#110;&quot;&gt;&amp;#88;&amp;#88;&amp;#x58;&amp;#x40;&amp;#97;&amp;#99;&amp;#46;&amp;#x63;&amp;#110;&lt;/a&gt;(中科院)等，大多数为edu.cn结尾&lt;/p&gt;</summary>
+&lt;p&gt;*教育邮箱主要是指edu.cn结尾的邮箱，如&lt;a href=&quot;mailto:&amp;#88;&amp;#x58;&amp;#88;&amp;#64;&amp;#x73;&amp;#x74;&amp;#x75;&amp;#46;&amp;#x6a;&amp;#105;&amp;#x61;&amp;#x6e;&amp;#x67;&amp;#110;&amp;#97;&amp;#110;&amp;#x2e;&amp;#x65;&amp;#x64;&amp;#117;&amp;#46;&amp;#99;&amp;#110;&quot;&gt;&amp;#88;&amp;#x58;&amp;#88;&amp;#64;&amp;#x73;&amp;#x74;&amp;#x75;&amp;#46;&amp;#x6a;&amp;#105;&amp;#x61;&amp;#x6e;&amp;#x67;&amp;#110;&amp;#97;&amp;#110;&amp;#x2e;&amp;#x65;&amp;#x64;&amp;#117;&amp;#46;&amp;#99;&amp;#110;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;*亦有例外：&lt;a href=&quot;mailto:&amp;#x58;&amp;#x58;&amp;#x58;&amp;#64;&amp;#110;&amp;#x63;&amp;#x65;&amp;#x70;&amp;#117;&amp;#46;&amp;#x63;&amp;#x6e;&quot;&gt;&amp;#x58;&amp;#x58;&amp;#x58;&amp;#64;&amp;#110;&amp;#x63;&amp;#x65;&amp;#x70;&amp;#117;&amp;#46;&amp;#x63;&amp;#x6e;&lt;/a&gt;(华北电力大学)；&lt;a href=&quot;mailto:&amp;#88;&amp;#x58;&amp;#88;&amp;#64;&amp;#97;&amp;#x63;&amp;#46;&amp;#99;&amp;#x6e;&quot;&gt;&amp;#88;&amp;#x58;&amp;#88;&amp;#64;&amp;#97;&amp;#x63;&amp;#46;&amp;#99;&amp;#x6e;&lt;/a&gt;(中科院)等，大多数为edu.cn结尾&lt;/p&gt;</summary>
     
     
     
@@ -157,9 +184,9 @@
     <link href="https://liruogu.github.io/2021/12/14/Google/"/>
     <id>https://liruogu.github.io/2021/12/14/Google/</id>
     <published>2021-12-14T14:59:08.000Z</published>
-    <updated>2021-12-21T12:26:04.517Z</updated>
+    <updated>2022-05-30T15:31:29.428Z</updated>
     
-    <content type="html"><![CDATA[<p>一、免责声明</p><p>本服务的目的是充分利用世界各地的学术资源、促进各地区的学术交流</p><p>阁下使用此服务时请务必遵守中华人民共和国之法律</p><span id="more"></span><p>本服务仅提供科研、学习、教育等一切合法目的的使用</p><p>严禁一切违法中华人民共和国之法律的行为</p><p>使用此服务时不参与一切与政治有关的话题</p><p>自觉拥护中华人民共和国之领土完整</p><p>自觉拥护中国共产党的领导</p><p>坚持“一国两制”，坚定“九二共识”</p><p>坚定香港地区、澳门地区、台湾地区为中华人民共和国固有之领土</p><p>请注意防范加密货币、博彩等以暴利为诱饵的网络诈骗</p><p>使用本服务将被视为对本声明全部之认可</p><p>二、隐私条款</p><p>我们不会收集阁下未授权的任何个人敏感数据信息</p><p>三、收费条款</p><p>本服务不会也不可能收取阁下任何之费用</p><p>四、申请方式</p><p>请阁下编辑以下内容发送邮件至<a href="mailto:&#114;&#x75;&#111;&#x67;&#117;&#x6c;&#x65;&#101;&#x40;&#49;&#54;&#51;&#46;&#99;&#x6f;&#109;">&#114;&#x75;&#111;&#x67;&#117;&#x6c;&#x65;&#101;&#x40;&#49;&#54;&#51;&#46;&#99;&#x6f;&#109;</a></p><p>申请人：XXX</p><p>申请事由：Google网络服务</p><p>申请日期：XXXX年XX月XX日</p>]]></content>
+    <content type="html"><![CDATA[<p>一、免责声明</p><p>本服务的目的是充分利用世界各地的学术资源、促进各地区的学术交流</p><p>阁下使用此服务时请务必遵守中华人民共和国之法律</p><span id="more"></span><p>本服务仅提供科研、学习、教育等一切合法目的的使用</p><p>严禁一切违法中华人民共和国之法律的行为</p><p>使用此服务时不参与一切与政治有关的话题</p><p>自觉拥护中华人民共和国之领土完整</p><p>自觉拥护中国共产党的领导</p><p>坚持“一国两制”，坚定“九二共识”</p><p>坚定香港地区、澳门地区、台湾地区为中华人民共和国固有之领土</p><p>请注意防范加密货币、博彩等以暴利为诱饵的网络诈骗</p><p>使用本服务将被视为对本声明全部之认可</p><p>二、隐私条款</p><p>我们不会收集阁下未授权的任何个人敏感数据信息</p><p>三、收费条款</p><p>本服务不会也不可能收取阁下任何之费用</p><p>四、申请方式</p><p>请阁下编辑以下内容发送邮件至<a href="mailto:&#x72;&#117;&#x6f;&#103;&#x75;&#108;&#101;&#101;&#64;&#49;&#x36;&#51;&#x2e;&#99;&#x6f;&#x6d;">&#x72;&#117;&#x6f;&#103;&#x75;&#108;&#101;&#101;&#64;&#49;&#x36;&#51;&#x2e;&#99;&#x6f;&#x6d;</a></p><p>申请人：XXX</p><p>申请事由：Google网络服务</p><p>申请日期：XXXX年XX月XX日</p><hr><p>终止服务</p><p>-2022/5/30</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;一、免责声明&lt;/p&gt;
