@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liruogu.github.io/2022/06/04/2022-06-04/</loc>
+    
+    <lastmod>2022-06-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liruogu.github.io/2022/03/21/%E9%BB%98%E5%93%80/</loc>
     
     <lastmod>2022-05-31</lastmod>
@@ -148,7 +157,7 @@
 
   <url>
     <loc>https://liruogu.github.io/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,63 +165,70 @@
   
   <url>
     <loc>https://liruogu.github.io/tags/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/linux/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/Origin/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/%E8%80%83%E8%AF%95/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/Orcawfn/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/benediction/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liruogu.github.io/tags/%E9%BB%98%E5%93%80/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://liruogu.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -221,7 +237,7 @@
   
   <url>
     <loc>https://liruogu.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-05-31</lastmod>
+    <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
